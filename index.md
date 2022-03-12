@@ -19,21 +19,7 @@ margin-top: 100px;
 
 }
 </style>
-<script>
-var speechElement = new webkitspeechRecognition();
-speechElement.lan = 'de-DE';
-speechElement.interimResults = true;
-speechElement.continuous = true;
-var final_transcript = '';
-speechElement.start(start);
 
-
-speechElement.onstart = function(start) {
-console.log('start');
-
-}
-
-</script>
   
   <script type="text/javascript">
     var adfly_id = 26383945;
