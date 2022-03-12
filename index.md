@@ -46,6 +46,7 @@ margin-top: 100px;
     var adfly_advert = 'int';
     var popunder = true;
     var domains = ['depositfiles.com', 'rapidshare.com', 'vip-file.com', 'smsfiles.ru', '4files.net', 'turbobit.ru', 'uploading.com', 'letitbit.net', 'depositfiles.ru', 'sms4file.com', 'ifolder.ru', 'hotfile.com', 'anyfiles.net', 'sharingmatrix.com', 'megashare.com', 'megaupload.com', 'rapidshare.de', 'rapidshare.ru', 'uploadbox.com', 'filefactory.com', 'filefactory.ru', 'filepost.ru', 'onefile.net', 'freefolder.net', 'getthebit.com', 'turbobit.net'];
+     var adfly_protocol = 'https';
 </script>
 <script src="https://cdn.adf.ly/js/link-converter.js"></script>
     
