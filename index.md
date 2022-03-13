@@ -33,8 +33,8 @@ margin-top: 100px;
 <body class="background-dark">
   
     <div class="center margin-top">
-        <img src="background.gif"
-        width="777" height="437"
+        <img src="dr-duck.jpg"
+        width="67" height="72"
         
         >
    
