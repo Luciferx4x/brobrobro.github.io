@@ -20,19 +20,12 @@ margin-top: 100px;
 }
 </style>
 
-  <script type="text/javascript">
-var adfly_id = 26383945;
-var adfly_advert = 'int';
-var adfly_protocol = 'http';
-var adfly_domain = 'adf.ly';
-var domains = ['depositfiles.com','rapidshare.com','vip-file.com'];
-var frequency_cap = '15';
-var frequency_delay = '15';
-var init_delay = '15';
-var popunder = true;
+<script type="text/javascript">
+    var adfly_id = 26383945;
+    var popunder_frequency_delay = 0;
+    var adfly_google_compliant = false;
 </script>
-<script src="https://cdn.adf.ly/js/link-converter.js"></script>
-<script src="https://cdn.adf.ly/js/entry.js"></script>
+<script src="https://cdn.adf.ly/js/display.js"></script>
  
     
 </head>
