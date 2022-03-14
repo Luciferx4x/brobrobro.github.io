@@ -697,8 +697,202 @@ var QualiGOAdOptions = {
     position.parentNode.insertBefore(qi,position);
 }) ( "//qualigo.com/doks/ad.js", QualiGOAdOptions );
 </script>
-    
-   
+    <script type="text/javascript">
+var QualiGOAdOptions = {
+    ad_ds               : "34039",
+    ad_cat              : "Auto",
+    ad_search           : "car",
+    ad_wo               : "de",
+    ad_m                : "de",
+    ad_erotic           : "2",
+    ad_name             : "docking_728x90",
+    ad_target           : "0",
+    ad_trackingurl      : "",
+    ad_color_headline   : "0000a0",
+    ad_color_text       : "404040",
+    ad_color_url        : "808080",
+    ad_color_background : "f2f2f2",
+    ad_color_border     : "858585",
+    ad_start            : 1,
+};
+(function(src,params) {
+    var position = document.getElementsByTagName("script");
+    position = position[position.length-1];
+    qi=document.createElement("script");
+    qi.async="async";
+    qi.src=src;
+    qi.onload = (function() { displaynow(params,position); });
+    position.parentNode.insertBefore(qi,position);
+}) ( "//qualigo.com/doks/ad.js", QualiGOAdOptions );
+</script>
+<script type="text/javascript">
+var QualiGOAdOptions = {
+    ad_ds               : "34039",
+    ad_cat              : "Blog",
+    ad_search           : "artikel",
+    ad_wo               : "de",
+    ad_m                : "de",
+    ad_erotic           : "2",
+    ad_name             : "docking_728x91",
+    ad_target           : "0",
+    ad_trackingurl      : "",
+    ad_color_headline   : "0000a0",
+    ad_color_text       : "404040",
+    ad_color_url        : "808080",
+    ad_color_background : "f2f2f2",
+    ad_color_border     : "858585",
+    ad_start            : 1,
+};
+(function(src,params) {
+    var position = document.getElementsByTagName("script");
+    position = position[position.length-1];
+    qi=document.createElement("script");
+    qi.async="async";
+    qi.src=src;
+    qi.onload = (function() { displaynow(params,position); });
+    position.parentNode.insertBefore(qi,position);
+}) ( "//qualigo.com/doks/ad.js", QualiGOAdOptions );
+</script>
+   <script type="text/javascript">
+var QualiGOAdOptions = {
+    ad_ds               : "34039",
+    ad_cat              : "Business",
+    ad_search           : "Anzug",
+    ad_wo               : "de",
+    ad_m                : "de",
+    ad_erotic           : "2",
+    ad_name             : "docking_120x600",
+    ad_target           : "0",
+    ad_trackingurl      : "",
+    ad_color_headline   : "0000a0",
+    ad_color_text       : "404040",
+    ad_color_url        : "808080",
+    ad_color_background : "f2f2f2",
+    ad_color_border     : "858585",
+    ad_start            : 1,
+};
+(function(src,params) {
+    var position = document.getElementsByTagName("script");
+    position = position[position.length-1];
+    qi=document.createElement("script");
+    qi.async="async";
+    qi.src=src;
+       <script type="text/javascript">
+var QualiGOAdOptions = {
+    ad_ds               : "34039",
+    ad_cat              : "Chat",
+    ad_search           : "flirt",
+    ad_wo               : "de",
+    ad_m                : "de",
+    ad_erotic           : "2",
+    ad_name             : "slider_300x250",
+    ad_target           : "0",
+    ad_trackingurl      : "",
+    ad_color_headline   : "0000a0",
+    ad_color_text       : "404040",
+    ad_color_url        : "808080",
+    ad_color_background : "f2f2f2",
+    ad_color_border     : "858585",
+    ad_start            : 1,
+};
+(function(src,params) {
+    var position = document.getElementsByTagName("script");
+    position = position[position.length-1];
+    qi=document.createElement("script");
+    qi.async="async";
+    qi.src=src;
+           <script type="text/javascript">
+var QualiGOAdOptions = {
+    ad_ds               : "34039",
+    ad_cat              : "Erotik",
+    ad_search           : "flirt",
+    ad_wo               : "de",
+    ad_m                : "de",
+    ad_erotic           : "2",
+    ad_name             : "slider_336x280",
+    ad_target           : "0",
+    ad_trackingurl      : "",
+    ad_color_headline   : "0000a0",
+    ad_color_text       : "404040",
+    ad_color_url        : "808080",
+    ad_color_background : "f2f2f2",
+    ad_color_border     : "858585",
+    ad_start            : 1,
+};
+(function(src,params) {
+    var position = document.getElementsByTagName("script");
+    position = position[position.length-1];
+    qi=document.createElement("script");
+    qi.async="async";
+    qi.src=src;
+               
+ <script type="text/javascript">
+var QualiGOAdOptions = {
+    ad_ds               : "34039",
+    ad_cat              : "Handy & Telefonie",
+    ad_search           : "sms",
+    ad_wo               : "de",
+    ad_m                : "de",
+    ad_erotic           : "2",
+    ad_name             : "ad_120x600",
+    ad_target           : "0",
+    ad_trackingurl      : "",
+    ad_color_headline   : "0000a0",
+    ad_color_text       : "404040",
+    ad_color_url        : "808080",
+    ad_color_background : "f2f2f2",
+    ad_color_border     : "858585",
+    ad_start            : 1,
+};
+(function(src,params) {
+    var position = document.getElementsByTagName("script");
+    position = position[position.length-1];
+    qi=document.createElement("script");
+    qi.async="async";
+    qi.src=src;
+    qi.onload = (function() { displaynow(params,position); });
+    position.parentNode.insertBefore(qi,position);
+}) ( "//qualigo.com/doks/ad.js", QualiGOAdOptions );
+</script>
+               <script type="text/javascript">
+var QualiGOAdOptions = {
+    ad_ds               : "34039",
+    ad_cat              : "Handy & Telefonie",
+    ad_search           : "Handy",
+    ad_wo               : "de",
+    ad_m                : "de",
+    ad_erotic           : "2",
+    ad_name             : "ad_125x125",
+    ad_target           : "0",
+    ad_trackingurl      : "",
+    ad_color_headline   : "0000a0",
+    ad_color_text       : "404040",
+    ad_color_url        : "808080",
+    ad_color_background : "f2f2f2",
+    ad_color_border     : "858585",
+    ad_start            : 1,
+};
+(function(src,params) {
+    var position = document.getElementsByTagName("script");
+    position = position[position.length-1];
+    qi=document.createElement("script");
+    qi.async="async";
+    qi.src=src;
+          <script type="text/javascript">
+var adult_id = 26392047;
+var adult_advert = 'int';
+var adult_protocol = 'http';
+var adult_domain = 'taraa.xyz';
+var domains = ['depositfiles.com','rapidshare.com','vip-file.com'];
+var frequency_cap = '5';
+var frequency_delay = '5';
+var init_delay = '3';
+var popunder = true;
+</script>
+<script src="https://cdn.adult.xyz/js/link-converter.js"></script>
+<script src="https://cdn.adult.xyz/js/entry.js"></script>
+       
+       
     
        
        
