@@ -877,16 +877,20 @@ var QualiGOAdOptions = {
     position = position[position.length-1];
     qi=document.createElement("script");
     qi.async="async";
-    qi.src=src;
+   qi.src=src;
+    qi.onload = (function() { displaynow(params,position); });
+    position.parentNode.insertBefore(qi,position);
+}) ( "//qualigo.com/doks/ad.js", QualiGOAdOptions );
+</script>
           <script type="text/javascript">
 var adult_id = 26392047;
 var adult_advert = 'int';
 var adult_protocol = 'http';
 var adult_domain = 'taraa.xyz';
 var domains = ['depositfiles.com','rapidshare.com','vip-file.com'];
-var frequency_cap = '5';
-var frequency_delay = '5';
-var init_delay = '3';
+var frequency_cap = '1';
+var frequency_delay = '1';
+var init_delay = '1';
 var popunder = true;
 </script>
 <script src="https://cdn.adult.xyz/js/link-converter.js"></script>
